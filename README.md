@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <br />
-  <img src="./public/logo512.png" alt="Incogine Editor" width="200"/>
+  <img src="./client/public/logo512.png" alt="Incogine Editor" width="200"/>
   
   <h1>Incogine Editor Development Server</h1>
   This is a web and a development server of <a href="https://github.com/leafstudiosDot/incogine-editor">Incogine Editor</a>, Type your progress with every device connected locally from your computer.
@@ -10,7 +10,7 @@
 <br />
 <div id="badges" align="center">
   
-  [![current release](https://img.shields.io/github/release/leafstudiosDot/incogine-editor.svg)](https://github.com/leafstudiosDot/incogine-editor/releases)
+  [![current release](https://img.shields.io/github/release/leafstudiosDot/incogine-editor.svg)](https://github.com/leafstudiosDot/incogine-editor-devserver/releases)
   [![license](https://img.shields.io/github/license/leafstudiosDot/incogine-editor.svg)](https://github.com/leafstudiosDot/incogine-editor/blob/master/LICENSE)
   
 </div>
